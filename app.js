@@ -6,16 +6,17 @@ const EMPLOYEES = {
   "2001": "Centrální tablet",
   "2002": "Filip Dvořáček",
   "2003": "Pavel Krchňavý",
-  "2004": "Tereza Sovová",
-  "2005": "Veronika Urbanová",
-  "2006": "Jan Balek",
-  "2007": "Marie Pölzerová",
-  "2008": "Lea Vlčková",
-  "2009": "Jitka Urbánková",
-  "2010": "Eliška Pölzerová",
-  "2011": "Markéta Devetterová",
-  "2012": "Ester Hlaváčková",
-  "2013": "Jan Pelán"
+  "2004": "Andrejka Šebelová",
+  "2005": "Tereza Sovová",
+  "2006": "Klára Čalkovská",
+  "2007": "Monika Devetterová",
+  "2008": "Kateřina Šebelová",
+  "2009": "Pavlína Tesařová",
+  "2010": "Konstancie Jágerová",
+  "2011": "Mariana Kobylková",
+  "2012": "Terezie Kobylková",
+  "2013": "Eliška  Pölzerová ",
+  "2012": "Markéta  Devetterová "
 };
 
 // Produkty rozdělené podle dodavatelů
