@@ -22,32 +22,32 @@ const EMPLOYEES = {
 // Produkty rozdělené podle dodavatelů
 const PRODUCTS = {
   "Plné vstupné": [
-    { name: "Plný celokonferenční vstup", price: 40 },
-    { name: "Plné ČTVRTEK", price: 20 },
-    { name: "Plné PÁTEK", price: 90 },
-    { name: "Plné SOBOTA", price: 430 },
-    { name: "Plné NEDĚLE", price: 270 },
+    { name: "Plný celokonferenční vstup", price: 1050 },
+    { name: "Plné ČTVRTEK", price: 400 },
+    { name: "Plné PÁTEK", price: 400 },
+    { name: "Plné SOBOTA", price: 400 },
+    { name: "Plné NEDĚLE", price: 400 },
   ],
   "Snížené vstupné": [
-    { name: "Snížený celokonferenční vstup", price: 40 },
-    { name: "Snížené ČTVRTEK", price: 20 },
-    { name: "Snížené PÁTEK", price: 90 },
-    { name: "Snížené SOBOTA", price: 430 },
-    { name: "Snížené NEDĚLE", price: 270 },
+    { name: "Snížený celokonferenční vstup", price: 700 },
+    { name: "Snížené ČTVRTEK", price: 300 },
+    { name: "Snížené PÁTEK", price: 300 },
+    { name: "Snížené SOBOTA", price: 300 },
+    { name: "Snížené NEDĚLE", price: 300 },
     ],
     "ZDARMA": [
-    { name: "DÍTĚ", price: 50 },
-    { name: "KNĚZ", price: 250 },
-    { name: "JEPTIŠKA", price: 250 },
-    { name: "SEXY JEPTIŠKA", price: 300 },
-    { name: "PŘÍMLUVCE", price: 680 },
+    { name: "DÍTĚ", price: 0 },
+    { name: "KNĚZ", price: 0 },
+    { name: "JEPTIŠKA", price: 0 },
+    { name: "SEXY JEPTIŠKA", price: 0 },
+    { name: "PŘÍMLUVCE", price: 0 },
   ],
   "Parkování": [
-    { name: "Parkování celokonferenční", price: 85 },
-    { name: "Parkování ČTVRTEK", price: 40 },
-    { name: "Parkování PÁTEK", price: 20 },
-    { name: "Parkování SOBOTA", price: 180 },
-    { name: "Parkování NEDĚLE", price: 350 }
+    { name: "Parkování celokonferenční", price: 440 },
+    { name: "Parkování ČTVRTEK", price: 120 },
+    { name: "Parkování PÁTEK", price: 120 },
+    { name: "Parkování SOBOTA", price: 120 },
+    { name: "Parkování NEDĚLE", price: 120 }
   ],
 };
 
