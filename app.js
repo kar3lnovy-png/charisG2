@@ -1,5 +1,5 @@
 // =================== KONFIGURACE ===================
-const GAS_URL = "https://script.google.com/macros/s/AKfycbyB7Uf9V9knZRrB8m4jig1zgCL87y2GxBJa_xX8RMpLvufrWmYb1b49I8duUzErLJ37/exec"; // <-- SEM VLOŽ URL Z APPS SCRIPTU
+const GAS_URL = "https://script.google.com/macros/s/AKfycbwc4w-GRB8-3XQKYDrE3KP9D649LtXT5aSLF5_kF-g6OQDO_1pLZaRw_SK5bNo250zU/exec"; // <-- SEM VLOŽ URL Z APPS SCRIPTU
 
 // Zaměstnanci a jejich PINy
 const EMPLOYEES = {
