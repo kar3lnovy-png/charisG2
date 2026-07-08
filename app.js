@@ -21,23 +21,18 @@ const EMPLOYEES = {
 // Produkty rozdělené podle dodavatelů
 const PRODUCTS = {
   "Plné vstupné": [
-    { name: "Celokonferenční vstup", price: 40 },
-    { name: "Samolepky Charis", price: 20 },
-    { name: "Oplatky", price: 90 },
-    { name: "Prapor VELKÝ", price: 430 },
-    { name: "Prapor DĚTSKÝ", price: 270 },
-    { name: "Prapor RATOLEST", price: 330 },
-    { name: "Poštovní služba", price: 40 },
-    { name: "Gumička 1ks", price: 80 },
-    { name: "Gumičky 2ks", price: 150 },
-    { name: "Plátěnka", price: 120 }
+    { name: "Plný celokonferenční vstup", price: 40 },
+    { name: "Plné ČTVRTEK", price: 20 },
+    { name: "Plné PÁTEK", price: 90 },
+    { name: "Plné SOBOTA", price: 430 },
+    { name: "Plné NEDĚLE", price: 270 },
   ],
   "Snížené vstupné": [
-    { name: "detská mikina SOM ORIGINÁL", price: 485 },
-    { name: "detská mikina OVOCIE DUCHA zelená", price: 485 },
-    { name: "detská mikina OVOCIE DUCHA růžová", price: 485 },
-    { name: "detská šiltovka SOM ORIGINÁL", price: 320 },
-    { name: "detské cd ODVÁŽNY PRIATEĽ", price: 250 },
+    { name: "Snížený celokonferenční vstup", price: 40 },
+    { name: "Snížené ČTVRTEK", price: 20 },
+    { name: "Snížené PÁTEK", price: 90 },
+    { name: "Snížené SOBOTA", price: 430 },
+    { name: "Snížené NEDĚLE", price: 270 },
     ],
     "ZDARMA": [
     { name: "3 rôzne odznaky spolu", price: 50 },
