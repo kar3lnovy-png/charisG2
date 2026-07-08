@@ -35,56 +35,19 @@ const PRODUCTS = {
     { name: "Snížené NEDĚLE", price: 270 },
     ],
     "ZDARMA": [
-    { name: "3 rôzne odznaky spolu", price: 50 },
-    { name: "cd VITAJ V SLOBODE", price: 250 },
-    { name: "cd NIE SI NA TO SÁM", price: 250 },
-    { name: "cd NA SVÄTÝ VRCH", price: 300 },
-    { name: "Chilly flaška", price: 680 },
-    { name: "Mikina ABBA", price: 850 },
-    { name: "Mikina SVÄTÝ, SVÄTÝ, SVÄTÝ", price: 850 },
-    { name: "Mikina SOFONIÁŠ", price: 870 },
-    { name: "Mikina SOM ORIGINÁL", price: 730 },
-    { name: "Mikina I WILL BLESS", price: 730 },
-    { name: "Mikina GRACE HUNTER", price: 970 },
-    { name: "Mikina LOST AND FOUND", price: 970 },
-    { name: "Šaty ŽALM 46 ZELENÉ", price: 725 },
-    { name: "Šaty ŽALM 46 MODRÉ", price: 725 },
-    { name: "Tričko LOST AND FOUND", price: 485 },
-    { name: "Tričko GRACE HUNTER", price: 555 },
-    { name: "Tričko SOFONIÁŠ", price: 580 },
-    { name: "Tričko HOPE RUNNER", price: 725 },
-    { name: "Tričko BLOOM", price: 560 },
-    { name: "Ponožky MODRÉ", price: 190 },
-    { name: "Ponožky JESUS", price: 190 },
-    { name: "Ponožky ČIERNE", price: 190 },
-    { name: "Ponožky KÁROVANÉ", price: 190 },
-    { name: "Ponožky SOFONIÁŠ", price: 190 },
-    { name: "šiltovka HOPE RUNNER", price: 365 },
-    { name: "šiltovka GRACE", price: 365 },
-    { name: "plátenka MORNING MERCY", price: 385 },
-    { name: "plátenka HOPE RUNNER", price: 385 }
+    { name: "DÍTĚ", price: 50 },
+    { name: "KNĚZ", price: 250 },
+    { name: "JEPTIŠKA", price: 250 },
+    { name: "SEXY JEPTIŠKA", price: 300 },
+    { name: "PŘÍMLUVCE", price: 680 },
   ],
   "Parkování": [
-    { name: "Přání s obálkou (různé druhy)", price: 85 },
-    { name: "Pohlednice (různé druhy)", price: 40 },
-    { name: "Záložky (různé druhy)", price: 20 },
-    { name: "Křížová cesta", price: 180 },
-    { name: "Plakáty (různé druhy)", price: 350 }
+    { name: "Parkování celokonferenční", price: 85 },
+    { name: "Parkování ČTVRTEK", price: 40 },
+    { name: "Parkování PÁTEK", price: 20 },
+    { name: "Parkování SOBOTA", price: 180 },
+    { name: "Parkování NEDĚLE", price: 350 }
   ],
-  "Little Things": [
-    { name: "Biblické karty", price: 200 },
-    { name: "Duchovní deník pro muže", price: 250 }
-  ],
-  "Výprodej": [
-    { name: "Kapesní kabel nabíjející", price: 200 },
-    { name: "Keramický hrnek se dřevem", price: 200 },
-    { name: "Příbory", price: 150 },
-    { name: "Kšiltovka", price: 80 },
-    { name: "Brýle sluneční bílé CHARIS", price: 80 },
-    { name: "Vějíř CHARIS", price: 80 },
-    { name: "Pláštěnka", price: 50 },
-    { name: "Trička", price: 80 },
-  ]
 };
 
 // =================== STAV APLIKACE ===================
