@@ -26,12 +26,12 @@ const PRODUCTS = {
     { name: "Snížený celokonferenční vstup", price: 700 },
   ],
   "Jednodenní": [
-    { name: "Snížené PÁTEK", price: 300 },
-    { name: "Snížené SOBOTA", price: 300 },
-    { name: "Snížené NEDĚLE", price: 300 },
     { name: "Plné PÁTEK", price: 400 },
+    { name: "Snížené PÁTEK", price: 300 },
     { name: "Plné SOBOTA", price: 400 },
+    { name: "Snížené SOBOTA", price: 300 },
     { name: "Plné NEDĚLE", price: 400 },
+    { name: "Snížené NEDĚLE", price: 300 }
     ],
     "ZDARMA": [
     { name: "DÍTĚ", price: 0 },
