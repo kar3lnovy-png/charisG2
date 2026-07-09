@@ -21,19 +21,19 @@ const EMPLOYEES = {
 
 // Produkty rozdělené podle dodavatelů
 const PRODUCTS = {
-  "Plné vstupné": [
+  "Celokonferenční": [
     { name: "Plný celokonferenční vstup", price: 1050 },
-    { name: "Plné ČTVRTEK", price: 400 },
-    { name: "Plné PÁTEK", price: 400 },
-    { name: "Plné SOBOTA", price: 400 },
-    { name: "Plné NEDĚLE", price: 400 },
-  ],
-  "Snížené vstupné": [
     { name: "Snížený celokonferenční vstup", price: 700 },
+  ],
+  "Jednodenní": [
     { name: "Snížené ČTVRTEK", price: 300 },
     { name: "Snížené PÁTEK", price: 300 },
     { name: "Snížené SOBOTA", price: 300 },
     { name: "Snížené NEDĚLE", price: 300 },
+    { name: "Plné ČTVRTEK", price: 400 },
+    { name: "Plné PÁTEK", price: 400 },
+    { name: "Plné SOBOTA", price: 400 },
+    { name: "Plné NEDĚLE", price: 400 },
     ],
     "ZDARMA": [
     { name: "DÍTĚ", price: 0 },
@@ -41,13 +41,6 @@ const PRODUCTS = {
     { name: "JEPTIŠKA", price: 0 },
     { name: "SEXY JEPTIŠKA", price: 0 },
     { name: "ZTP + doprovod", price: 0 },
-  ],
-  "Parkování": [
-    { name: "Parkování celokonferenční", price: 440 },
-    { name: "Parkování ČTVRTEK", price: 120 },
-    { name: "Parkování PÁTEK", price: 120 },
-    { name: "Parkování SOBOTA", price: 120 },
-    { name: "Parkování NEDĚLE", price: 120 }
   ],
 };
 
