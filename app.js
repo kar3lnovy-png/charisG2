@@ -41,7 +41,7 @@ const PRODUCTS = {
     { name: "ZDARMA snížené jednodenní", price: 0 },
     { name: "ZDARMA snížené celokonferenční", price: 0 },
   ],
-  "Dary": []
+  "Dar": []
 };
 
 // =================== STAV APLIKACE ===================
